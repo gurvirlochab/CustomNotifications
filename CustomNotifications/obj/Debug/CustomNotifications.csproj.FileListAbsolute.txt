@@ -1,0 +1,9 @@
+c:\users\gurvirlochab\documents\visual studio 2015\Projects\CustomNotifications\CustomNotifications\bin\Debug\CustomNotifications.exe.config
+C:\Users\gurvirlochab\Documents\Visual Studio 2015\Projects\CustomNotifications\CustomNotifications\bin\Debug\CustomNotifications.exe
+C:\Users\gurvirlochab\Documents\Visual Studio 2015\Projects\CustomNotifications\CustomNotifications\bin\Debug\CustomNotifications.pdb
+C:\Users\gurvirlochab\Documents\Visual Studio 2015\Projects\CustomNotifications\CustomNotifications\obj\Debug\CustomNotifications.NotificationClasses.DialogFormDisplay.resources
+C:\Users\gurvirlochab\Documents\Visual Studio 2015\Projects\CustomNotifications\CustomNotifications\obj\Debug\CustomNotifications.Properties.Resources.resources
+C:\Users\gurvirlochab\Documents\Visual Studio 2015\Projects\CustomNotifications\CustomNotifications\obj\Debug\CustomNotifications.csproj.GenerateResource.Cache
+C:\Users\gurvirlochab\Documents\Visual Studio 2015\Projects\CustomNotifications\CustomNotifications\obj\Debug\CustomNotifications.exe
+C:\Users\gurvirlochab\Documents\Visual Studio 2015\Projects\CustomNotifications\CustomNotifications\obj\Debug\CustomNotifications.pdb
+C:\Users\gurvirlochab\Documents\Visual Studio 2015\Projects\CustomNotifications\CustomNotifications\obj\Debug\CustomNotifications.Form1.resources
