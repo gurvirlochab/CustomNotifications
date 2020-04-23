@@ -13,3 +13,6 @@ To display/call the custom DialogBox use the following code:
         "This is a dialog box. You can choose to press Yes for more action or No to discard the dialog box\nOption 1\nOption 2\nOption 3"
         );
     nxtfrm.ShowDialog();
+# Screenshot
+You can view the sample screenshot using the link below:
+https://github.com/gurvirlochab/CustomNotifications/blob/master/DialogBox.png
